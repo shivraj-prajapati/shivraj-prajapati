@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Shivraj Prajapati 👋
 
-<!--
-**shivraj-prajapati/shivraj-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on Web Scrapping and Data Analysis
+- 🌱 I’m currently learning Fast API and Node.js
+- 💬 Ask me about Pandas, Numpy, Web Scrapping
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivraj-prajapati/)
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, JavaScript
+- **Libraries/Frameworks**: Pandas, Numpy, FastAPI, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Web Scrapping Project**: Description of your project.
+- **Data Analysis with Pandas**: Description of your project.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shivraj-prajapati/)
