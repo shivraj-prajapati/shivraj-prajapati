@@ -12,7 +12,7 @@
 
 ## Projects
 - **Web Scrapping Project**: Google Map Data Collector.
-- **Gen AI Project**: AI Interviewer
+- **Gen AI Project**: AI Interviewer, Youtube Transcript Summarizer
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shivraj-prajapati/)
