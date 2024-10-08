@@ -7,11 +7,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivraj-prajapati/)
 
 ## Skills
-- **Languages**: Python, JavaScript, Sklearn, 
+- **Languages**: Python, JavaScript, SQL, 
 - **Libraries/Frameworks**: Pandas, Numpy, FastAPI, Node.js, Beautifulsoup,  
 
 ## Projects
-- **Web Scrapping Project**: Google Map Data Collector.
 - **Gen AI Project**: AI Interviewer, Youtube Transcript Summarizer
 
 ## Connect with me
