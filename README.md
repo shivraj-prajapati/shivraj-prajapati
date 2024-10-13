@@ -26,50 +26,6 @@
 
 ###
 
-<style>
-  /* Continuous Animation for Shivraj Prajapati */
-  .continuous-animation {
-    font-weight: bold;
-    background: linear-gradient(270deg, #ff5757, #57b5ff, #57ff57, #fffb57);
-    background-size: 600% 600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientMove 4s ease infinite;
-  }
-
-  @keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  /* Gradient for Microsoft Learn Button */
-  .microsoft-learn {
-    background: linear-gradient(90deg, #0078D4, #107C10, #FCD116, #D83B01);
-    transition: all 0.3s ease-in-out;
-  }
-
-  .microsoft-learn:hover {
-    transform: scale(1.05);
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
-  }
-
-  /* Mouse Follower Style */
-  #mouse-follower {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: #57b5ff;
-    pointer-events: none;
-    z-index: 9999;
-    transition: transform 0.1s ease;
-  }
-</style>
-
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
