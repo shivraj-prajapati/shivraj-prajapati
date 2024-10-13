@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
   </a>
   <a href="https://www.w3profile.com/shivraj-prajapati" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=W3Profile&logo=w3c&label=&color=F06529&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="w3profile logo" />
+    <img src="https://img.shields.io/static/v1?message=W3Profile&logo=w3c&label=&color=009A68&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="w3profile logo" />
   </a>
   <a href="https://github.com/shivraj-prajapati" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
