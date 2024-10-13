@@ -1,11 +1,10 @@
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/shivraj-prajapati/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/shivraj-prajapati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
+    <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
   </a>
   <a href="https://www.w3profile.com/shivraj-prajapati" target="_blank">
     <img src="https://img.shields.io/static/v1?message=W3Profile&logo=w3c&label=&color=009A68&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="w3profile logo" />
@@ -15,7 +14,6 @@
   </a>
 </div>
 
-
 ###
 
 <div align="center">
@@ -24,7 +22,53 @@
 
 ###
 
-<h1 align="center"> Hey there, I'm Shivraj Prajapati 👋</h1>
+<h1 align="center" class="animate-text"> Hey there, I'm <span class="continuous-animation">Shivraj Prajapati</span> 👋</h1>
+
+
+
+<style>
+  /* Continuous Animation for Shivraj Prajapati */
+  .continuous-animation {
+    font-weight: bold;
+    background: linear-gradient(270deg, #ff5757, #57b5ff, #57ff57, #fffb57);
+    background-size: 600% 600%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientMove 4s ease infinite;
+  }
+
+  @keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  /* Gradient for Microsoft Learn Button */
+  .microsoft-learn {
+    background: linear-gradient(90deg, #0078D4, #107C10, #FCD116, #D83B01);
+    transition: all 0.3s ease-in-out;
+  }
+
+  .microsoft-learn:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Mouse Follower Style */
+  #mouse-follower {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #57b5ff;
+    pointer-events: none;
+    z-index: 9999;
+    transition: transform 0.1s ease;
+  }
+</style>
+
 
 ###
 
