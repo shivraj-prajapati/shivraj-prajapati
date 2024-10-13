@@ -29,7 +29,7 @@
 ###
 
 <p align="left">
-    My name is <em>Shivraj Prajapati</em>, and I am from <em>Jamnagar, Gujarat</em>. I have a great interest in <em>technology</em> and <em>data science</em>. My experience includes <em>web scraping</em>, <em>data analysis</em>, <em>machine learning</em>, and <em>FastAPI</em>, which have significantly enhanced my analytical skills.
+    My name is <em>Shivraj Prajapati</em> I have a great interest in <em>technology</em> and <em>data science</em>. My experience includes <em>web scraping</em>, <em>data analysis</em>, <em>machine learning</em>, and <em>FastAPI</em>, which have significantly enhanced my analytical skills.
 </p>
 
 <p align="left">
