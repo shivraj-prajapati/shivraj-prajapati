@@ -1,8 +1,6 @@
 ###
 <div align="center">
-  <a href="https://www.linkedin.com/in/shivraj-prajapati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/shivraj-prajapati" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a href="https://learn.microsoft.com/en-us/users/shivraj-prajapati/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
   </a>
@@ -12,7 +10,12 @@
   <a href="https://github.com/shivraj-prajapati" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
   </a>
+  <a href="https://gitlab.com/shivraj-prajapati" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo" />
+  </a>
+  <a target="_blank" href="https://twitter.com/shivraj_dev1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 </div>
+
 
 ###
 
