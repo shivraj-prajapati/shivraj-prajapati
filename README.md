@@ -37,7 +37,7 @@
 </p>
 
 <p align="left">
-    Currently, I am learning <em>Node.js</em>, which is allowing me to explore new avenues in <em>web development</em>. <br><br>
+    Currently, I am learning <em>Node.js</em>, <em>React.js</em> which is allowing me to explore new avenues in <em>web development</em>. <br><br>
     - 🔭 I am working as a <em>Web Scraper</em><br>
     - 📚 I am currently focused on learning <em>Node.js</em> and exploring new technologies<br>
     - ⚡ In my free time, I enjoy solving real-time problems and challenges
