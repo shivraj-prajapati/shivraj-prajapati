@@ -4,7 +4,7 @@
   <a href="https://learn.microsoft.com/en-us/users/shivraj-prajapati/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
   </a>
-  <a href="https://github.com/shivraj-prajapati" target="_blank">
+  <a href="https://github.com/shivraj_prajapati" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
   </a>
   <a href="https://gitlab.com/shivraj-prajapati" target="_blank">
