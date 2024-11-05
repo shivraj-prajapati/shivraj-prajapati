@@ -115,8 +115,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivraj-prajapati&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivraj-prajapati&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivraj-prajapati&rank_icon=github&theme=dark" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivraj-prajapati&layout=compact&theme=dark" height="150" alt="languages graph" />
 </div>
 
 ###
