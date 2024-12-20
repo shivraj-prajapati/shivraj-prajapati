@@ -107,12 +107,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shivraj-prajapati&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivraj-prajapati&rank_icon=github&theme=radical&show_icons=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivraj-prajapati&layout=compact&theme=radical&hide=html" height="160" alt="languages graph" />
