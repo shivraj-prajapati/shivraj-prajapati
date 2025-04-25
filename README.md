@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=shivraj-prajapati&color=purple)
+<img src="https://komarev.com/ghpvc/?username=shivraj-prajapati&color=purple" >
 </div>
 
 ###
