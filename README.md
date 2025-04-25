@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shivraj-prajapati&color=purple" >
+<img src="https://komarev.com/ghpvc/?username=shivraj-prajapati&color=green" >
 </div>
 
 ###
