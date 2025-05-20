@@ -7,9 +7,6 @@
   <a href="https://github.com/shivraj_prajapati" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
   </a>
-  <a href="https://gitlab.com/shivraj-prajapati" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo" />
-  </a>
   <a target="_blank" href="https://twitter.com/shivraj_dev1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 </div>
 
