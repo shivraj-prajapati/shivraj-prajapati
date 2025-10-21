@@ -25,24 +25,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">
-    My name is <em>Shivraj Prajapati</em> and I have a great interest in <em>technology</em> and <em>web development</em>. My experience includes <em>web scraping</em>, <em>data analysis</em>, <em>machine learning</em>, and <em>FastAPI</em>, which have significantly enhanced my analytical skills.
-</p>
-
-<p align="left">
-    Currently, I am learning <em>Node.js</em>, <em>React.js</em> which is allowing me to explore new avenues in <em>web development</em>. <br><br>
-    - 🔭 I am working as a <em>Web Scraper</em><br>
-    - 📚 I am currently focused on learning <em>Node.js</em> and exploring new technologies<br>
-    - ⚡ In my free time, I enjoy to learn something new and challenges
-</p>
-
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
