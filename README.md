@@ -22,15 +22,3 @@
 <h1 align="center" class="animate-text"> Hey there, I'm <span class="continuous-animation">Shivraj Prajapati</span> 👋</h1>
 
 ###
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivraj-prajapati&rank_icon=github&theme=radical&show_icons=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivraj-prajapati&layout=compact&theme=radical&hide=html" height="160" alt="languages graph" />
-</div>
-
-
-###
